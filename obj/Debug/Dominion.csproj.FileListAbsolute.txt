@@ -1,0 +1,7 @@
+C:\Code\C#\Dominion\Dominion\bin\Debug\Dominion.exe.config
+C:\Code\C#\Dominion\Dominion\bin\Debug\Dominion.exe
+C:\Code\C#\Dominion\Dominion\bin\Debug\Dominion.pdb
+C:\Code\C#\Dominion\Dominion\obj\Debug\Dominion.csprojAssemblyReference.cache
+C:\Code\C#\Dominion\Dominion\obj\Debug\Dominion.csproj.CoreCompileInputs.cache
+C:\Code\C#\Dominion\Dominion\obj\Debug\Dominion.exe
+C:\Code\C#\Dominion\Dominion\obj\Debug\Dominion.pdb
